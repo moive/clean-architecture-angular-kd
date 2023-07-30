@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### References
+
+https://www.youtube.com/watch?v=LswOKQAulfM&list=PLZzrOwwF150GzuNe9nZbcYDufibl-bkA7&index=2
+https://medium.com/taager-tech-blog/clean-architecture-for-angular-applications-b7ab140f0d5a
+https://gitlab.com/taager-com/examples/-/tree/main/clean-architecture-angular

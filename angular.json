@@ -36,6 +36,12 @@
           },
           "configurations": {
             "production": {
+              "fileReplacements": [
+                {
+                  "replace": "src/envrironments/environment.ts",
+                  "with": "src/envrironments/environment.prod.ts"
+                }
+              ],
               "budgets": [
                 {
                   "type": "initial",
